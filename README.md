@@ -1,7 +1,7 @@
-# Username & Password
+## For Student
+### Useruname : Student1 Student2
+### Password : XPUtxl83
 
-## For Student : Student1 Student2
-### XPUtxl83
-
-## For Cook : Cook1 Cook2
-### XPUtxl83
+## For Cook
+### Useruname : Cook1 Cook2
+### Password : XPUtxl83
